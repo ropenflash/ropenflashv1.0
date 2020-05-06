@@ -1,0 +1,11 @@
+@import "./../../styles/mixin.scss";
+
+.MainContent {
+  flex: 1 0 auto;
+
+  &__rope {
+    margin-top: 10px;
+    height: auto;
+    width: 100%;
+  }
+}
